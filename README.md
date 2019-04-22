@@ -26,18 +26,22 @@ La venta online ha generado un nuevo nicho de mercado desde donde han surgido nu
 
 ## RETO
 
-Aprovechando las múltiples oportunidades de negocio que el comercio electrónico ofrece en la actualidad, tus compañeras y tú han decidido emprender juntas a través de una propuesta de plataforma de tienda en línea. Al final del proyecto tendrán la oportunidad de presentar su idea a diversos stakeholders y emprendedores con experiencia que evaluarán la viabilidad de su producto.
+Aprovechando las múltiples oportunidades de negocio que el comercio electrónico ofrece en la actualidad, tus compañeras y tú han decidido emprender juntas a través de una propuesta de plataforma de tienda en línea.
 
 Emprendimiento en conjunto, nunca olvidar que son parte de un equipo y que el trabajo de una repercute en el trabajo de todas.
-Crear y consumir API’s
-Validar el producto o productos que van a vender, el segmento que van a explotar, el usuario al que se van a dirigir
+
+Crear y/o consumir API’s.
+
+Validar el producto o productos que van a vender, el segmento que van a explotar, el usuario al que se van a dirigir.
+
 Tomar en cuenta todo el flujo de compra, tanto desde el aspecto técnico como desde la experiencia del usuario.
 
 ### PARTE OBLIGATORIA
 
-Cómo validaron a su usuario
-Cómo respaldan la demanda del o los productos que van a vender
-Justificar la idoneidad de la distribución de dicho producto(s) a través de comercio electrónico
+- Cómo validaron a su usuario.
+- Cómo respaldan la demanda del o los productos que van a vender
+- Justificar la idoneidad de la distribución de dicho producto(s) a través de comercio electrónico.
+- Replicar el flujo de una e-commerce (buscar, filtar, selecciona un producto, agregar y/o quitar un pruducto del carrito, seleccionar método de pago, y terminar el proceso de compra).
 
 ### HACKER EDITION
 
