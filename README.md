@@ -87,7 +87,15 @@ Tomar en cuenta todo el flujo de compra, tanto desde el aspecto técnico como de
 
 - También te sugerimos que empieces a utilizar los project boards de github que te ayudaran a organizar y priorizar su trabajo.
 
-NOTA: Aquí te damos algunas API´s que puedes usar para tu proyecto pero si encuentras otras, adelante! Sorpréndenos
+NOTA: Aquí te damos algunas API´s que puedes usar para tu proyecto pero si encuentras otras, adelante! Sorpréndenos.
+
+- _**[Mercado Libre](https://developers.mercadolibre.com.mx/es_ar/api-docs-es)**_
+- _**[Etsy](https://rapidapi.com/community/api/etsy?utm_source=google&utm_medium=cpc&campaign=1672506610&keyword=&gclid=EAIaIQobChMIpNWtsInf4QIVA7XACh2V_wHCEAAYASAAEgIIK_D_BwE)**_
+- _**[Firebase Hosting](https://firebase.google.com/docs/hosting/?gclid=EAIaIQobChMIhrP5t5Hf4QIVRvbjBx3D5AuBEAAYASAAEgLeAPD_BwE)**_
+- _**[Now](https://zeit.co/now#features)**_
+- _**[Paypal](https://www.paypal.com/mx/webapps/mpp/express-checkout)**_
+- _**[Stripe](https://stripe.com/es-ES/)**_
+- _**[Mercado pago](https://www.mercadopago.com.mx/)**_
 
 ### **Archivos del proyecto**
 
